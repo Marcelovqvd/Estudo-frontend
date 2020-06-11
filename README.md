@@ -17,3 +17,9 @@
 
 * yarn add react-router-dom
 * yarn add @types/react-router-dom -D
+
+## Styled-components
+
+yarn add styled-components
+
+yarn add @types/styled-components -D
