@@ -23,3 +23,9 @@
 yarn add styled-components
 
 yarn add @types/styled-components -D
+
+## login
+yarn add react-icons
+
+#### button hover com polished
+yarn add polished
