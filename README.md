@@ -1,4 +1,4 @@
-# Teste front-end Confere
+# Front-end com ReactJS
 
 ## Estrutura e padrões:
 * create-react-app teste_frontend_confere --template=typescript
